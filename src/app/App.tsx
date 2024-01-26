@@ -1,4 +1,4 @@
-import "./app/css/App.css"
+import "../css/App.css";
 const Person = (props: any) => {
   return (
     <>
